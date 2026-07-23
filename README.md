@@ -58,7 +58,7 @@ url-shortener/
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/<your-username>/url-shortener.git
+git clone https://github.com/Cak3IsLov3/url-shortener.git
 cd url-shortener
 
 python -m venv .venv
